@@ -1,4 +1,5 @@
 # Customer-Help-Desk-using-Smart-Document-Understanding
+### URL: https://node-red-uahqr.eu-gb.mybluemix.net/ui/
 ## Overview
 
 We will be able to write an application that leverages multiple Watson AI services like Discovery, Assistant, Cloud Function and Node Red. By the end of the project we will learn best practices of combining Watson Services, and how they can build interactive retrieval system with discovery + assistant.
@@ -9,10 +10,6 @@ We will be able to write an application that leverages multiple Watson AI servic
 •   Technical Requirements: Python, Watson AI, ML
 
 •   Software Requirements: Watson Assistant, Watson Discovery, Node Red
-
-•   Project Deliverables: Report
-
-•   Project Duration: 1 Month
 
 ## Purpose
 
